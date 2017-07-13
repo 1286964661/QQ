@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:text="版本信息：v1.0.0.0"
+    android:drawableTop="@drawable/launcher_large"
+    android:drawablePadding="20dp"
+    android:textSize="20sp"
+    android:paddingBottom="20dp"
+    android:paddingTop="20dp"
+    android:layout_gravity="center" />
